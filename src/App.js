@@ -127,7 +127,7 @@ class App extends React.Component {
                   </div>
                   <div className="field is-centered">
                     <button className="button is-primary ">login</button>
-                    <a href="#"> register now !</a>
+                    <a href="/register"> register now !</a>
                   </div>
                 </Modal>
               </div>
